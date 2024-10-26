@@ -1,0 +1,2 @@
+Explain the steps in PCA with code without implementing Scikit-Learn, and discuss how PCA can be applied using Scikit-Learn.
+Creating a Jupyter Notebook using the 'HR_comma_sep.csv' dataset?"

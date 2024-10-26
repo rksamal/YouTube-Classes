@@ -1,0 +1,1 @@
+Create a Jupyter Notebook and develop a Support Vector Machine  model to predict whether the stone area has "Rock " or "Mine" using the "sonar data.csv" file

@@ -1,0 +1,1 @@
+Create a Jupyter Notebook and develop a Navie bayes Classification model to predict whether a person has "diabetes" or "not" using the "diabetes.csv" file

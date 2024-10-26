@@ -1,0 +1,2 @@
+Create a multiple linear regression model to predict the Performance Index when student data is provided in the 'Students_Performance.csv' file.
+Kindly create a Jupyter Notebook and develop a multiple linear regression model.

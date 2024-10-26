@@ -1,0 +1,1 @@
+"Develop a Jupyter Notebook to analyze a credit card dataset ('CC GENERAL.csv') and implement KMeans clustering to explore patterns in customer purchasing behavior ('PURCHASES') and credit limits ('CREDIT_LIMIT'). The goal is to identify distinct customer segments, providing insights for targeted strategies in credit card market segmentation."

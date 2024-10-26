@@ -1,0 +1,2 @@
+Create a Simple Linear Regression model to predict the placement package when CGPA data is provided in Placement.csv file.
+Kindly create a Jupyter Notebook and develop a simple linear regression model using sklearn package
